@@ -83,4 +83,5 @@ target/my-portfolio.war
 ---
 
 📷 Screenshots
-<img width="1365" height="767" alt="Screenshot 2026-04-19 220411" src="https://github.com/user-attachments/assets/d373974c-311a-4644-90e6-78ba61136783" />
+<img width="1342" height="602" alt="Screenshot 2026-04-19 220810" src="https://github.com/user-attachments/assets/47006b6e-bbdb-42b0-bd76-4f01ce678001" />
+
